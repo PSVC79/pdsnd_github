@@ -1,21 +1,16 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+Date created: 2022-12-16
 
-Date created
-2022-12-16
+Project Title: Bikeshare Project
 
-Project Title
-Bikeshare Project
+Description: The Bikeshare Project aims to create a Python program to visualize bikeshare statistics based on a filtering of data
 
-Description
-The Bikeshare Project aims to create a Python program to visualize bikeshare statistics based on a filtering of data
-
-Files used
+Files used:
 Bikeshare_Project.py
 new_york_city.csv
 chicago.csv
 washington.csv
 
-Credits
+Credits:
 https://stackoverflow.com/questions/22285799/while-statement-and-def-function
 https://stackoverflow.com/questions/36843103/while-loop-with-if-else-statement-in-python
 https://stackoverflow.com/questions/49471442/using-pandas-value-counts-to-get-one-value
