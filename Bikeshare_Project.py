@@ -225,7 +225,8 @@ def source_data(df):
 
     while True:
         source_data = input("Please let me know if you want to see source data for your selection, enter Yes or No please!\n").lower()
-        
+        # row = 0
+
 if source_data == "yes":
             print(df.iloc[row : row + 6])
             row += 6
